@@ -1,2 +1,2 @@
-package com.packt.webstore.test;public class WebApp {
-}
+package com.packt.webstore.test;
+

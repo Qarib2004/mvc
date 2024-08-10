@@ -1,2 +1,4 @@
-package com.packt.webstore;public class a {
+package com.packt.webstore;
+
+public class a {
 }
